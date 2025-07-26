@@ -1,6 +1,6 @@
 
 <h1 align="center">Assalamu Alykum,I'm Jahir Uddin Mohammad Babar</h1>
-<h3 align="center">A passionate frontend coder from Bangladesh</h3>
+<h3 align="center">A passionate coder from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbabar926&label=Profile%20views&color=0e75b6&style=flat" alt="jbabar926" /> </p>
 
