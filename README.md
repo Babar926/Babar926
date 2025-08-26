@@ -10,7 +10,7 @@
 
 
 I'm currently pursuing a Bachelor of Science in Computer Science & Engineering at the American International University-Bangladesh (AIUB).  
-My core interests lie in **Competitive Programming,**Artificial Intelligence (AI)**, **Data Science**, and **Research**.  
+My core interests lie in **Competitive Programming**,**Artificial Intelligence (AI)**, **Data Science**, and **Research**.  
 
 ---
 
