@@ -5,7 +5,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        Hi there! I am passionate about solving challenging problems through programming and AI.<br><br>
+        Hi there! I am passionate about solving challenging problems through programming and AI <br><br>
         I enjoy working on competitive programming, data science, AI, and research projects that make a real-world impact.<br><br>
         My mission is to constantly learn, innovate, and contribute to the tech community.<br><br>
         🌐 I’m always looking for opportunities to collaborate on <b>Asp.Net</b> and AI-based projects.
